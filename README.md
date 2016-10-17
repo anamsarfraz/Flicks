@@ -31,16 +31,18 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: 
 
-<img src='http://i.imgur.com/5UO0YAh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://i.imgur.com/ddKtYF6.gif
+
+<img src='http://i.imgur.com/ddKtYF6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-[x] Organizing the views so that they are in their right positions was quite a challange. The views got hidden behind each other and would not appear when they were supposed to.
-[x] Choosing the right dimension for each view is a great struggle for me. I would appreciate some tips on that.
+- [x] Organizing the views so that they are in their right positions was quite a challange. The views got hidden behind each other and would not appear when they were supposed to.
+- [x] Choosing the right dimension for each view is a great struggle for me. I would appreciate some tips on that.
 
 
 ## License
